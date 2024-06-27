@@ -4,5 +4,4 @@ let b = 20;
 let c = a +b;
 console.log(c);
 // I'm running the JS using node.
-
-FormData
+// We will use Code Runner extension on VS code
