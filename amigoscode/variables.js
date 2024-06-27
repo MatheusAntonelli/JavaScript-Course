@@ -13,10 +13,10 @@ var dob = new Date(2002, 2,25);
 var person = { firstName, lastName, age, balance};
 var empty = undefined;
 
-console.log(firstName + " " + lastName);
-console.log(age);
-console.log(isMale);
-console.log(balance);
-console.log(dob);
-console.log(person);
-console.log(empty);
+console.log(typeof firstName + " " + lastName);
+console.log(typeof age);
+console.log(typeof isMale);
+console.log(typeof balance);
+console.log(typeof dob);
+console.log(typeof person);
+console.log(typeof empty);
