@@ -20,3 +20,10 @@ console.log(typeof balance);
 console.log(typeof dob);
 console.log(typeof person);
 console.log(typeof empty);
+
+/* 
+Variables names cannot contain spaces
+CAN ONLY CONTAIN letters, numbers uderscores and dollar signs;
+names are case-sensitive.
+Cannot use reserved keywords
+*/
