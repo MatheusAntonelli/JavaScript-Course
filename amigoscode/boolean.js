@@ -14,5 +14,5 @@ console.log(!true); // This means falseS
 if(!isAdult) {
     console.log("Is not an adult :(")
 } else {
-    console.log("Is adult :)");
+    console.log("Is adult :)  ");
 }
