@@ -9,12 +9,12 @@ if(condition) {
 }
 
 
-var gender = "F"
+var gender = "FEMALE"
 
-if (gender == "M") {
+if (gender == 'M' ){
     console.log("Male");
-} else if(gender == "F"){
-    console.log("Female");
+} else if(gender == 'F' ||"FEMALE"){
+    console.log("Female" );
 }else {
     console.log("Unkown");
 }
